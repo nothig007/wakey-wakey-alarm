@@ -1,5 +1,4 @@
-# wakey-wakey-alarm
- 
+
 # Wakey-Wakey Alarm: Open Source (1.0)
 
 The Wakey-Wakey Alarm is an Arduino Uno R3-based alarm system designed to make waking up a challenge! 🚀
